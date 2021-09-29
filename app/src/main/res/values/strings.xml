@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchWidget</string>
+    <string name="search_hint">Pokemons</string>
+</resources>
